@@ -1,4 +1,4 @@
-  @font-face {
-    font-family: TensAlph;
-    src: url('https://raw.githubusercontent.com/jtaugusta06/tensura-alph/main/TensuraAlph-Regular.ttf') format('truetype'), url('https://raw.githubusercontent.com/jtaugusta06/tensura-alph/main/TensuraAlph-Regular.otf') format('opentype');
-  }
+@font-face {
+  font-family: TensAlph;
+  src: url('https://raw.githubusercontent.com/jtaugusta06/tensura-alph/main/TensuraAlph-Regular.ttf') format('truetype'), url('https://raw.githubusercontent.com/jtaugusta06/tensura-alph/main/TensuraAlph-Regular.otf') format('opentype');
+}
